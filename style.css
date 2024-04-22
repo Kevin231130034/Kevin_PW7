@@ -1,0 +1,25 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    font-variant: small-caps;
+    /*color: rgba(200, 150, 90, 1);*/
+    color: #c8965a;
+}
+
+article {
+    float: left;
+    width: 50vmin;
+    height: 500px;
+    line-height: 500px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+footer {
+    clear: both;
+}
